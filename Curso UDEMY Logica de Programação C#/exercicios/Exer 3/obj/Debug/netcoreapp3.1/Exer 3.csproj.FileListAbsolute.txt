@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\bin\Debug\netcoreapp3.1\Exer 3.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\exercicios\Exer 3\obj\Debug\netcoreapp3.1\Exer 3.genruntimeconfig.cache

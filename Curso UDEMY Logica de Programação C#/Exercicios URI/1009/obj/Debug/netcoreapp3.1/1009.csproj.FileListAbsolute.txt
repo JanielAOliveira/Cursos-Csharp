@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\bin\Debug\netcoreapp3.1\1009.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Logica de Programação C#\Exe URI\1009\obj\Debug\netcoreapp3.1\1009.genruntimeconfig.cache
