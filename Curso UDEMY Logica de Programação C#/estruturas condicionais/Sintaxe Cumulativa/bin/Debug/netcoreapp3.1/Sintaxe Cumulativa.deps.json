@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sintaxe Cumulativa/1.0.0": {
+        "runtime": {
+          "Sintaxe Cumulativa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sintaxe Cumulativa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

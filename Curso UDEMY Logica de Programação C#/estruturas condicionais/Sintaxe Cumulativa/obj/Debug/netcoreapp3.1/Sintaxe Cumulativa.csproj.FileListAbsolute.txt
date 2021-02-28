@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\bin\Debug\netcoreapp3.1\Sintaxe Cumulativa.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\Sintaxe Cumulativa\obj\Debug\netcoreapp3.1\Sintaxe Cumulativa.genruntimeconfig.cache

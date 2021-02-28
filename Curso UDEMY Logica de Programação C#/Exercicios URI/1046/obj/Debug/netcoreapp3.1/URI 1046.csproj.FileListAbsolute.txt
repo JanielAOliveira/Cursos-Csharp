@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.genruntimeconfig.cache
