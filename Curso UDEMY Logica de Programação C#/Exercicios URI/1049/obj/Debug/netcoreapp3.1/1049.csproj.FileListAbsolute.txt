@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\bin\Debug\netcoreapp3.1\1049.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas condicionais\1049\obj\Debug\netcoreapp3.1\1049.genruntimeconfig.cache
