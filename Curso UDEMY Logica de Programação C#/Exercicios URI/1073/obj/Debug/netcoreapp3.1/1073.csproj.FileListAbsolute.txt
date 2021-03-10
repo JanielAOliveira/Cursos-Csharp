@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\bin\Debug\netcoreapp3.1\1073.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\1073\obj\Debug\netcoreapp3.1\1073.genruntimeconfig.cache

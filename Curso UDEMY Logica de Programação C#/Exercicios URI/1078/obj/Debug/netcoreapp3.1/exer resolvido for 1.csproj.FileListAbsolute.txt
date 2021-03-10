@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\bin\Debug\netcoreapp3.1\exer resolvido for 1.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\estruturas de repetição\exer resolvido for 1\obj\Debug\netcoreapp3.1\exer resolvido for 1.genruntimeconfig.cache

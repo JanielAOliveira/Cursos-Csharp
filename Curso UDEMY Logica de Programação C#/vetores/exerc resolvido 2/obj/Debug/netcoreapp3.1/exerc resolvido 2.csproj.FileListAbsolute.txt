@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\bin\Debug\netcoreapp3.1\exerc resolvido 2.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exerc resolvido 2\obj\Debug\netcoreapp3.1\exerc resolvido 2.genruntimeconfig.cache

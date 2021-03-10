@@ -1,0 +1,13 @@
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.exe
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.deps.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.runtimeconfig.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.runtimeconfig.dev.json
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\bin\Debug\netcoreapp3.1\exer 6.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.csprojAssemblyReference.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.AssemblyInfoInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.AssemblyInfo.cs
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.dll
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.pdb
+C:\Users\janie\OneDrive - Fatec Centro Paula Souza\Programações\C#\Programação C#\vetores\exer 6\obj\Debug\netcoreapp3.1\exer 6.genruntimeconfig.cache
